@@ -3,4 +3,7 @@ Version 1.0
 Feature B implemented
 Feature rebase implemented
 this project demostrates a simple github workflow
+the purpose of this project is to practice creating pull requests,
+reviewing code, responding to comments, and improving changes
+before they are merged into the main branch.
 
